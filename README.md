@@ -1,0 +1,2 @@
+# Process-Management-System-Calls-in-C---Exercises-and-Examples
+this repository was created to reinforce the "Process" topic in operating systems courses. It contains C code examples, ranging from simple to complex, aimed at understanding how fundamental system calls like fork(), exec(), and wait() work. It is suitable for beginners and those who want to learn the topic through practical exercises.
